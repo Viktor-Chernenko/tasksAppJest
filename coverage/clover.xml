@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1631024436832" clover="3.2.0">
+  <project timestamp="1631024436832" name="All files">
+    <metrics statements="31" coveredstatements="31" conditionals="13" coveredconditionals="13" methods="12" coveredmethods="12" elements="56" coveredelements="56" complexity="0" loc="31" ncloc="31" packages="4" files="8" classes="8"/>
+    <package name="components">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <file name="FormApp.vue" path="C:\Users\Victor\Desktop\practic\task-app-jest\src\components\FormApp.vue">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="63" count="6" type="stmt"/>
+        <line num="71" count="4" type="stmt"/>
+      </file>
+      <file name="TaskItem.vue" path="C:\Users\Victor\Desktop\practic\task-app-jest\src\components\TaskItem.vue">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="38" count="15" type="cond" truecount="2" falsecount="0"/>
+      </file>
+    </package>
+    <package name="localStorage">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <file name="index.js" path="C:\Users\Victor\Desktop\practic\task-app-jest\src\localStorage\index.js">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="4" count="12" type="stmt"/>
+        <line num="8" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="14" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="store.tasks">
+      <metrics statements="18" coveredstatements="18" conditionals="9" coveredconditionals="9" methods="6" coveredmethods="6"/>
+      <file name="actions.js" path="C:\Users\Victor\Desktop\practic\task-app-jest\src\store\tasks\actions.js">
+        <metrics statements="5" coveredstatements="5" conditionals="5" coveredconditionals="5" methods="2" coveredmethods="2"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="3" count="3" type="cond" truecount="5" falsecount="0"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+      <file name="getters.js" path="C:\Users\Victor\Desktop\practic\task-app-jest\src\store\tasks\getters.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+      </file>
+      <file name="mutations.js" path="C:\Users\Victor\Desktop\practic\task-app-jest\src\store\tasks\mutations.js">
+        <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+      </file>
+      <file name="state.js" path="C:\Users\Victor\Desktop\practic\task-app-jest\src\store\tasks\state.js">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="0" coveredmethods="0"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="views">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="TasksList.vue" path="C:\Users\Victor\Desktop\practic\task-app-jest\src\views\TasksList.vue">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
